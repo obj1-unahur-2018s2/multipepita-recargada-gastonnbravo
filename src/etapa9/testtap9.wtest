@@ -1,0 +1,14 @@
+import golondrina.*
+import comidas.*
+test "golondrinas"{
+	var juliana = new Golondrina()
+	var enriqueta = new Golondrina()
+	
+	juliana.comer(alpiste, 50)
+	enriqueta.comer(sorgo, 10) 
+	
+	
+	assert.equals(juliana.energia(),200)
+	assert.equals(enriqueta.energia(),90)
+
+}
