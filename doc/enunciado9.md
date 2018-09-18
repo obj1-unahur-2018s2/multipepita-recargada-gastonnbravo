@@ -15,7 +15,7 @@ P.ej. si creamos dos golondrinas llamadas `juliana` y `enriqueta`, después de h
 juliana.comer(50, alpiste)
 enriqueta.comer(10, sorgo)
 ```
-la energía de `juliana` debe ser 200 mientras que la de `enriqueta` debe ser 90 (recordar que el alpiste da 4 joules por gramo, mientras que el sorgo da 9).
+la energía de `juliana` debe ser 20090 mientras que la de `enriqueta` debe ser 90 (recordar que el alpiste da 4 joules por gramo, mientras que el sorgo da 9).
 
 Implementar un test en el que
 - se crean tres golondrinas, a las que llamaremos `juliana`, `melina` y `tatiana`.
